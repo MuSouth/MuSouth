@@ -59,7 +59,7 @@ Source repository: <https://github.com/Xiaokang2022/Xiaokang2022>
     <a href="https://github.com/Musouth"><img src="https://img.shields.io/badge/GitHub-MuSouth-blue?logo=github" alt="GitHub" title="GitHub" /></a>
     <a href="https://gitee.com/moonsurface"><img src="https://img.shields.io/badge/Gitee-moonsurface-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
     <a href="https://space.bilibili.com/521246382"><img src="https://img.shields.io/badge/哔哩哔哩-Musouth_-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
-    <a href="https://wakatime.com/@MuSouth"><img src="https://wakatime.com/badge/user/904dfd25-f87f-43fe-8967-f514af0238e3.svg" alt="wakatime" title="wakatime" /></a>
+    <a href="https://wakatime.com/@904dfd25-f87f-43fe-8967-f514af0238e3"><img src="https://wakatime.com/badge/user/904dfd25-f87f-43fe-8967-f514af0238e3.svg" alt="wakatime" title="wakatime" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <a href="https://github.com/MuSouth"><img src="https://komarev.com/ghpvc/?username=MuSouth&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
