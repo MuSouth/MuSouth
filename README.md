@@ -56,12 +56,12 @@ Source repository: <https://github.com/Xiaokang2022/Xiaokang2022>
 </p>
 <p align="center">
     <!-- https://github.com/badges/shields --> 
-    <a href="https://github.com/Musouth"><img src="https://img.shields.io/badge/GitHub-Xiaokang2022-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="https://gitee.com/Xiaokang2022"><img src="https://img.shields.io/badge/Gitee-Xiaokang2022-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
-    <a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-我就是小康-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
-    <a href="https://wakatime.com/@MuSouth"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" alt="wakatime" title="wakatime" /></a>
+    <a href="https://github.com/Musouth"><img src="https://img.shields.io/badge/GitHub-MuSouth-blue?logo=github" alt="GitHub" title="GitHub" /></a>
+    <a href="https://gitee.com/moonsurface"><img src="https://img.shields.io/badge/Gitee-moonsurface-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
+    <a href="https://space.bilibili.com/521246382"><img src="https://img.shields.io/badge/哔哩哔哩-Musouth_-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
+    <a href="https://wakatime.com/@MuSouth"><img src="https://wakatime.com/badge/user/waka_8a382b76-147f-4eb7-96fd-ca971376866c.svg" alt="wakatime" title="wakatime" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-    <a href="https://github.com/MuSouth"><img src="https://komarev.com/ghpvc/?username=Xiaokang2022&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
+    <a href="https://github.com/MuSouth"><img src="https://komarev.com/ghpvc/?username=MuSouth&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
