@@ -30,7 +30,8 @@ Ref 2：Source repository: <https://github.com/zumrudu-anka/zumrudu-anka>
 </p>
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,vue,md,latex,regex,mermaid,matlab&titles=true" alt="skill icons" title="skill icons">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,vue,md,latex,mermaid,matlab&titles=true" alt="skill icons" title="skill icons">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,vue,md,latex,mermaid,matlab&titles=true" alt="skill icons" title="skill icons">
 </p>
 <p align="center">
     <!-- https://github.com/badges/shields --> 
